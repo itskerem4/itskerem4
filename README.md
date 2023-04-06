@@ -6,7 +6,7 @@
   
   <ul>
   <ol><a href="https://instagram.com/itskerem4">İnstagram</a></ol>
-  <li><a href="https://twitter.com/itskerem4">Twitter</a></li>
-  <li><a href="https://linkedin.com/in/itskerem4">Linkedin</a></li>
-  <li><a href="https://linktr.ee/itskerem4">Linktr</a></li>
+  <ol><a href="https://twitter.com/itskerem4">Twitter</a></ol>
+  <ol><a href="https://linkedin.com/in/itskerem4">Linkedin</a></ol>
+  <ol><a href="https://linktr.ee/itskerem4">Linktr</a></ol>
 </ul>
