@@ -1,6 +1,6 @@
-  Hello,
+  <b>Hello,
   I am Kerem Kaplan, a 21-year-old young entrepreneur pursuing software. I graduated from Harran University Computer Programming.
-  Front-end developer and ui ux designs are my field of interest.<br>
+  Front-end developer and ui ux designs are my field of interest.</b><br>
  
   <img src="https://komarev.com/ghpvc/?username=itskerem4&color=green" alt="itskerem4 :: Profile Stats"></a>
   <a href="mailto:keremkaplan633@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-keremkaplan633@gmail.com-yellow?style=flat&logo=gmail"></a>
