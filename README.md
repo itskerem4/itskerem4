@@ -10,4 +10,6 @@
  <h3>Languages And Tools</h3>
  <p><a href="https://figma.com/@itskerem4"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/figma.svg" height="60px" width="60px" color="red"/></a></p>
   </center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskerem4>&theme=<THEME_NAME>" />
+
 
