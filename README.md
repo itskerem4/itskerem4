@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=itskerem4&color=green" alt="itskerem4 :: Profile Stats"></a>
   <a href="mailto:keremkaplan633@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-keremkaplan633@gmail.com-blue?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/itskerem4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@itskerem4-blue?style=flat&logo=linkedin"></a>
+    <a href="https://www.twitter.com/itskerem4/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@itskerem4-blue?style=flat&logo=twitter"></a>
  <a href="https://www.instagram.com/itskerem4/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-itskerem4-red?style=flat-square&logo=instagram"></a>
   <a href="https://www.linktr.ee/itskerem4/"><img alt="Instagram" src="https://img.shields.io/badge/Linktr-itskerem4-red?style=flat-square&logo=safari"></a>
  <h3 align="center">Languages And Tools</h3>
