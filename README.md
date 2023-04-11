@@ -11,7 +11,7 @@
   <a href="https://www.linktr.ee/itskerem4/"><img alt="Instagram" src="https://img.shields.io/badge/Linktr-itskerem4-green?style=flat-square&logo=safari"></a>
  <h3 align="center">Languages And Tools</h3>
  <p align="center">
- <img alt="GİTHUB" width="50px" src"[https://www.vectorlogo.zone/logos/github/github-tile.svg](https://www.vectorlogo.zone/logos/github/github-tile.svg)"/>
+ <img alt="GİTHUB" width="50px" src"https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
 <img alt="JAVASCRİPT" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img  alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
 <img  alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
