@@ -15,6 +15,7 @@
 <img  alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
 <img  alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></a>
 <img  alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/></a>
+<img  alt="CSS" width="50px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></a>
 </p><br><br>
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
