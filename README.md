@@ -8,6 +8,6 @@
  <a href="https://www.instagram.com/itskerem4/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-itskerem4-red?style=flat-square&logo=instagram"></a>
  
  <h3>Languages And Tools</h3>
- <p><a href="https://figma.com/@itskerem4"><img src="https://logowik.com/content/uploads/images/figma.jpg" height="45px" width="45px"/></a></p>
+ <p><a href="https://figma.com/@itskerem4"><img src="https://logowik.com/content/uploads/images/figma.jpg" height="60px" width="60px"/></a></p>
   </center>
 
