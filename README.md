@@ -11,7 +11,7 @@
   <a href="https://www.linktr.ee/itskerem4/"><img alt="Instagram" src="https://img.shields.io/badge/Linktr-itskerem4-green?style=flat-square&logo=safari"></a>
  <h3 align="center">Languages And Tools</h3>
  <p align="center">
- <img alt="GİTHUB" width="50px" src"https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg"/>
+
 <img alt="JAVASCRİPT" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img  alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
 <img  alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
@@ -19,6 +19,7 @@
 <img  alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/></a>
 <img  alt="FİGMA" width="50px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></a>
 <img alt ="VSCODE" width="50px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+<img alt="GİTHUB" width="50px" src"https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg"/>
 </p><br><br>
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
