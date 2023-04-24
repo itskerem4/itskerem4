@@ -24,7 +24,7 @@
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=itskerem4&show_icons=true&theme=tokyonight" width="500" height="200">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskerem4&layout=compact&theme=tokyonight" height="200">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskerem44&layout=compact&theme=tokyonight" height="200">
 </p>
   
 
