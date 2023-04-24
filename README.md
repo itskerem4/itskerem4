@@ -23,7 +23,7 @@
 </p><br><br>
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskerem4&theme=dark&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true
 </p>
   
 
