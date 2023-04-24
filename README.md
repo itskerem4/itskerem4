@@ -23,8 +23,8 @@
 </p><br><br>
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itskerem4&theme=gardient&show_icons=true"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskerem4&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itskerem4&theme=dark&show_icons=true"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskerem4&theme=dark&langs_count=8"/>
 </p>
   
 
