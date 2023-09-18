@@ -1,5 +1,7 @@
-  <h2>Kerem Kaplan @itskerem4</h2><br>
-  <b>Hello,<br>
+  
+<h2>Kerem Kaplan @itskerem4</h2><br>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<b>Hello,<br>
   I am Kerem Kaplan, a 21-year-old young entrepreneur pursuing software. I graduated from Harran University Computer Programming.
   Front-end developer and ui ux designs are my field of interest.</b><br><br>
  
