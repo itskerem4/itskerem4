@@ -2,11 +2,11 @@
 
 https://itskerem4.github.io/keremkaplan/index.html
 
-https://mekontsoft.com.tr/
+<a href="https://mekontsoft.com.tr/">Mekontsoft Yazılım</a>
 
-https://smmservisi.com.tr
+<a href="https://smmservisi.com.tr/">Sosyal Medya Servisi</a>
 
-https://cvdemo.mekontsoft.com.tr
+<a href="https://cvdemo.mekontsoft.com.tr/">Cv Maker Demo</a>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" border-radius="3"/>
 <b>Hello,<br>
