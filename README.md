@@ -1,8 +1,8 @@
 <h2>Kerem Kaplan @itskerem4</h2><br>
 
-https://itskerem4.github.io/keremkaplan/index.html
+<a href="https://itskerem4.github.io/keremkaplan/index.html"> Kerem Kaplan </a>
 
-<a href="https://mekontsoft.com.tr/" style="font-size:bold;">Mekontsoft Yazılım</a>
+<a href="https://mekontsoft.com.tr/">Mekontsoft Yazılım</a>
 
 <a href="https://smmservisi.com.tr/">Sosyal Medya Servisi</a>
 
