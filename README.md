@@ -1,5 +1,6 @@
-  
 <h2>Kerem Kaplan @itskerem4</h2><br>
+
+<img src="https://raw.githubusercontent.com/Zcerens/Zcerens/output/github-contribution-grid-snake-dark.svg"/>  
 
 https://itskerem4.github.io/keremkaplan/index.html
 
