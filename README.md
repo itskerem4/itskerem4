@@ -4,8 +4,6 @@
 
 <a href="https://mekontsoft.com.tr/">Mekontsoft Yazılım</a>
 
-<a href="https://smmservisi.com.tr/">Sosyal Medya Servisi</a>
-
 <a href="https://cvdemo.mekontsoft.com.tr/">Cv Maker Demo</a>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" border-radius="3"/>
